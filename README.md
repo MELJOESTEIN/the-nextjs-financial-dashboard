@@ -1,1 +1,0 @@
-# the-nextjs-financial-dashboard
